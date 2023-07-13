@@ -1,4 +1,4 @@
-# Credit_Card_Default_Prediction
+# iNeuron Internship Project - Credit_Card_Default_Prediction
 ## To run flask application
 python app.py
 
